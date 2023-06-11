@@ -1,2 +1,3 @@
-# ignore debug logs
+#ignore debug logs and other stuff
 x64/
+.vs/
